@@ -10,7 +10,7 @@ My main tech stack is Python, JavaScript (especially with D3), and some C here a
 
 I mainly used GitHubfor private projects. However, there is a repo of which I am pretty proud of: [F$`^2`$Stories](https://github.com/tommaso-piselli/f2stories) (which also got the [Replicability Stamp](https://www.replicabilitystamp.org/#https-github-com-tommaso-piselli-f2stories) by TVCG and was an Honorable Mentioned Paper at [VIS25](https://ieeevis.org/year/2025/welcome)).
 
-> [Google Scholar Profile](https://scholar.google.com/citations?user=C4MtNsAAAAAJ&hl=it&oi=ao) for publications
+> [Google Scholar Profile](https://scholar.google.com/citations?user=C4MtNsAAAAAJ&hl=it&oi=ao) for publications \
 > Profile artwork by [annalumaca](https://www.instagram.com/annalumaca/)
 <!--
 **tommaso-piselli/tommaso-piselli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
